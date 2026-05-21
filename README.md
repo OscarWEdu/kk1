@@ -1,8 +1,9 @@
+## Summary
 A quick notebook project demonstrating various graphing tools for python, following an analysis of a random dataset.
 
 The dataset was provided by Muhammad Shahzad on Kaggle.com under the Apache 2.0 license
 
-##Instructions
+## Instructions
 A list of requirements is provided in requirements.txt
 to install them simply run:
 "pip install -r requirements.txt"
